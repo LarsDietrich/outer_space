@@ -2,7 +2,7 @@ Outer Space
 
 ## v1
 
-This is a rather farfetched website concept I have that I will be working on over time.
+This is a rather farfetched website concept I have that I will be working on over time.  Right now the home page includes a full-screen scene including two rotating planets, one earth-like, & one moon, & four flickering stars. All animations are done in CSS.  No jQuery fallback yet...
 
 Built on a fusion Bootstrap/Boilerplate base.
 
